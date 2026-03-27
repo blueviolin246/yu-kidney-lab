@@ -1,1 +1,1 @@
-Sitemap: https://greenelab.github.io/lab-website-template/sitemap.xml
+Sitemap: https://blueviolin246.github.io/yu-kidney-lab/sitemap.xml
